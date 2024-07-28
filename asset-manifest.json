@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/afunmibi/my--first-react-commit.git/static/css/main.f855e6bc.css",
+    "main.js": "/afunmibi/my--first-react-commit.git/static/js/main.f5ce25c6.js",
+    "index.html": "/afunmibi/my--first-react-commit.git/index.html",
+    "main.f855e6bc.css.map": "/afunmibi/my--first-react-commit.git/static/css/main.f855e6bc.css.map",
+    "main.f5ce25c6.js.map": "/afunmibi/my--first-react-commit.git/static/js/main.f5ce25c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.f5ce25c6.js"
+  ]
+}
